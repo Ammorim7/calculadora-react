@@ -49,6 +49,7 @@ function Calculator(){
         console.log(conta)
         let resultado = eval(conta)
         setValorBaixo(resultado)
+        setConta(resultado)
     }
 
     return (
