@@ -1,0 +1,15 @@
+button {
+    width: 21%;
+    height: 14%;
+    background-color: rgba(255, 255, 255, 0.733);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: rgb(56, 56, 56);
+    box-shadow: 0px 0px 0.5em 1px rgba(0, 0, 0, 0.329);
+    cursor: pointer;
+    margin-bottom: 0.5em;
+    border: none;
+}
+
