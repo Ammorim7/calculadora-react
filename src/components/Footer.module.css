@@ -8,7 +8,6 @@ footer {
     align-items: center;
     margin-top: 1em;
     position: absolute;
-    bottom: 0;
     width: 100%;
     box-sizing: border-box;
 }
@@ -25,4 +24,10 @@ footer {
 a{
     text-decoration: none;
     color: white;
+}
+
+@media screen and (min-height: 840px){
+    footer {
+        bottom:0;
+    }
 }
