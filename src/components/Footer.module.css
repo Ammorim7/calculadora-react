@@ -26,7 +26,7 @@ a{
     color: white;
 }
 
-@media screen and (min-height: 840px){
+@media screen and (min-height: 820px){
     footer {
         bottom:0;
     }
